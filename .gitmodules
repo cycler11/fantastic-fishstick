@@ -1,0 +1,3 @@
+[submodule "crispy-potato"]
+	path = crispy-potato
+	url = https://github.com/cycler11/crispy-potato.git
